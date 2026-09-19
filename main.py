@@ -5,3 +5,4 @@ second = 0
 while True:
   print(f"Текущая секунда: {second}")
   sleep(1)
+  second += 1
